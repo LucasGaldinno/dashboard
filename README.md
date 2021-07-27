@@ -1,5 +1,7 @@
 <h1>Dashboard</h1>
 
+![L!](https://img.shields.io/badge/License-MIT-green) 
+
 This project was developed in HTML, CSS and JavaScript pure. This project follows the page <a href="">empire</a>, this deshboard shows how much the company is worth in the market, the products we have the most in stock. The evaluation of the public's daily visits also shows the store's most valuable products, the best-selling and best-selling products of the year, and the company's stock values.
 
 <h3 align="center">
