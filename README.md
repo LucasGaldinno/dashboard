@@ -23,19 +23,18 @@ Project planning 📋<br><br>
 </h3>
 
 <h3 align="center">
-Functionalities:
-</h3>
-
+Functionalities:<br><br>
 - [x] Image zoom
 - [x] Dark mode
 - [x] Responsive
-  
+</h3> 
+ 
 <h3 align="center">
-Tool used to develop the project:
-</h3>
+Tool used to develop the project:<br><br>
   
 This project was developed in Visual Studio Code <br>
 June 2021 (version 1.58) <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+</h3>
  
 <h3 align="center">
 Final result of the project
