@@ -39,6 +39,6 @@ Final result of the project
 <img src ="./Screenshots/Dashboard-Darkmode.png?token=AREOZJ6BPPOKNMAAZCVS45DBAAV2G" alt="Dashboard-Darkmode">
  
 <h3 align="center">
-Project planning <br>
+Project planning 📋<br><br>
 <a href="https://trello.com/invite/b/njl1PRjw/ae9f3bc2128f235342aba6b499998163/dashboard-project">Planning</a>
 </h3>
