@@ -42,5 +42,5 @@ Final result of the project
  
 <h3 align="center">
 Project planning 📋<br><br>
-<a href="https://trello.com/b/njl1PRjw/dashboard-project">Planning</a>
+<img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
 </h3>
