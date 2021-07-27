@@ -16,6 +16,11 @@ This project was developed in HTML, CSS and JavaScript pure. This project follow
 <h2>Wireframe</h2>
 
 <img src ="./Screenshots/Wireframe-Dashboard.png" alt="Wireframe">
+ 
+<h3 align="center">
+Project planning 📋<br><br>
+<img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
+</h3>
 
 <h3 align="center">
 Functionalities:
@@ -39,8 +44,3 @@ Final result of the project
 <img src ="./Screenshots/Dashboard-result.png?token=AREOZJ6Z6OCCYKAUJABT6TDBAANZC" alt="Dashboard">
  
 <img src ="./Screenshots/Dashboard-Darkmode.png?token=AREOZJ6BPPOKNMAAZCVS45DBAAV2G" alt="Dashboard-Darkmode">
- 
-<h3 align="center">
-Project planning 📋<br><br>
-<img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
-</h3>
