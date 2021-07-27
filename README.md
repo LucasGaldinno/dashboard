@@ -17,7 +17,7 @@ This project was developed in HTML, CSS and JavaScript pure. This project follow
 
 <h3 align="center">
 Functionalities:
-<h3>
+</h3>
 
 - [x] Image zoom
 - [x] Dark mode
@@ -25,13 +25,20 @@ Functionalities:
   
 <h3 align="center">
 Tool used to develop the project:
-<h3>
+</h3>
   
 This project was developed in Visual Studio Code <br>
 June 2021 (version 1.58) <a href="https://code.visualstudio.com/">Visual Studio Code</a>
  
 <h3 align="center">
 Final result of the project
-<h3>
+</h3>
   
 <img src ="./Screenshots/Dashboard-result.png?token=AREOZJ6Z6OCCYKAUJABT6TDBAANZC" alt="Dashboard">
+ 
+<img src ="./Screenshots/Dashboard-Darkmode.png?token=AREOZJ6BPPOKNMAAZCVS45DBAAV2G" alt="Dashboard-Darkmode">
+ 
+<h3 align="center">
+Project planning <br>
+<a href="https://trello.com/invite/b/njl1PRjw/ae9f3bc2128f235342aba6b499998163/dashboard-project">Planning</a>
+</h3>
