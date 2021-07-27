@@ -42,5 +42,5 @@ Final result of the project
  
 <h3 align="center">
 Project planning 📋<br><br>
-<a href="https://trello.com/invite/b/njl1PRjw/ae9f3bc2128f235342aba6b499998163/dashboard-project">Planning</a>
+<a href="https://trello.com/b/njl1PRjw/dashboard-project">Planning</a>
 </h3>
