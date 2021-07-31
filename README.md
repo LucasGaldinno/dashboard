@@ -2,7 +2,7 @@
 
 <h1>Dashboard</h1>
 
-This project was developed in HTML, CSS and JavaScript pure. This project follows the page <a href="">empire</a>, this deshboard shows how much the company is worth in the market, the products we have the most in stock. The evaluation of the public's daily visits also shows the store's most valuable products, the best-selling and best-selling products of the year, and the company's stock values.
+This project was developed in HTML, CSS and JavaScript pure. This project follows the page <a href="https://lucasgaldinno.github.io/empire-website/home.html">Empire</a>, this deshboard shows how much the company is worth in the market, the products we have the most in stock. The evaluation of the public's daily visits also shows the store's most valuable products, the best-selling and best-selling products of the year, and the company's stock values.
 
 <h3 align="center">
  Language
