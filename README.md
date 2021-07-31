@@ -43,3 +43,5 @@ Final result of the project
 <img src ="./Screenshots/Dashboard-result.png?token=AREOZJ6Z6OCCYKAUJABT6TDBAANZC" alt="Dashboard">
  
 <img src ="./Screenshots/Dashboard-Darkmode.png?token=AREOZJ6BPPOKNMAAZCVS45DBAAV2G" alt="Dashboard-Darkmode">
+ 
+https://lucasgaldinno.github.io/dashboard/dashboard.html
