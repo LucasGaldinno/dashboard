@@ -21,14 +21,6 @@ This project was developed in HTML, CSS and JavaScript pure. This project follow
 Project planning 📋<br><br>
 <img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
 </h3>
-
-<h3 align="center">
-Functionalities:
-</h3> 
- 
-- [x] Image zoom
-- [x] Dark mode
-- [x] Responsive
  
 <h3 align="center">
 Tool used to develop the project:
