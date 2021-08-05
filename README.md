@@ -1,8 +1,8 @@
 ![L!](https://img.shields.io/badge/License-MIT-green) 
 
-<h1>Dashboard</h1>
+<h1>Dashboard  	:chart_with_upwards_trend:</h1>
 
-This project was developed in HTML, CSS and JavaScript pure. This project follows the page <a href="https://lucasgaldinno.github.io/empire-website/home.html">Empire</a>, this deshboard shows how much the company is worth in the market, the products we have the most in stock. The evaluation of the public's daily visits also shows the store's most valuable products, the best-selling and best-selling products of the year, and the company's stock values.
+Este projeto foi desenvolvido em HTML, CSS e JavaScript puro. Este projeto é uma continuação da página <a href="https://lucasgaldinno.github.io/empire-website/home.html">Empire</a>, este deshboard mostra o quanto a empresa vale no mercado, os produtos que mais temos em estoque. A avaliação das visitas diárias do público também mostra os produtos mais valiosos da loja, os produtos mais vendidos e mais vendidos no ano e os valores das ações da empresa.
 
 <h3 align="center">
  Language
@@ -13,23 +13,23 @@ This project was developed in HTML, CSS and JavaScript pure. This project follow
 <img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b">
 <p>
 
-<h2>Wireframe</h2>
+<h2>Wireframe :pencil:</h2>
 
 <img src ="./Screenshots/Wireframe-Dashboard.png" alt="Wireframe">
  
 <h3 align="center">
-Project planning 📋<br><br>
+Planejamento de projeto 📋<br><br>
 <img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
 </h3>
  
 <h3 align="center">
-Tool used to develop the project:
+Ferramenta utilizada para desenvolver o projeto :toolbox:
 </h3>
-This project was developed in Visual Studio Code <br>
+Este projeto foi desenvolvido em Visual Studio Code<br>
 June 2021 (version 1.58) <a href="https://code.visualstudio.com/">Visual Studio Code</a>
  
 <h3 align="center">
-Final result of the project
+Resultado final do projeto 🎯
 </h3>
   
 <img src ="./Screenshots/Dashboard-result.png?token=AREOZJ6Z6OCCYKAUJABT6TDBAANZC" alt="Dashboard">
