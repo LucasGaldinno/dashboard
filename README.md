@@ -1,8 +1,8 @@
 ![L!](https://img.shields.io/badge/License-MIT-green) 
 
-<h1>Dashboard  	:chart_with_upwards_trend:</h1>
+<h1>Dashboard da loja Empire	:chart_with_upwards_trend:</h1>
 
-Este projeto foi desenvolvido em HTML, CSS e JavaScript puro. Este projeto é uma continuação da página <a href="https://lucasgaldinno.github.io/empire-website/home.html">Empire</a>, nesse deshboard mostra o quanto a empresa vale no mercado, os produtos que mais temos em estoque. A avaliação das visitas diárias do público também mostra os produtos mais valiosos da loja, os produtos mais vendidos e mais vendidos no ano e os valores das ações da empresa.
+Este projeto é uma continuação da página <a href="https://lucasgaldinno.github.io/empire-website/home.html">Empire</a>, nesse deshboard mostra o quanto a empresa vale no mercado, os produtos que mais temos em estoque. A avaliação das visitas diárias do público também mostra os produtos mais valiosos da loja, os produtos mais vendidos e mais vendidos no ano e os valores das ações da empresa.
 
 <h2 align="center">
  Language :scroll:
