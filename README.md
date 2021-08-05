@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido em HTML, CSS e JavaScript puro. Este projeto é uma continuação da página <a href="https://lucasgaldinno.github.io/empire-website/home.html">Empire</a>, nesse deshboard mostra o quanto a empresa vale no mercado, os produtos que mais temos em estoque. A avaliação das visitas diárias do público também mostra os produtos mais valiosos da loja, os produtos mais vendidos e mais vendidos no ano e os valores das ações da empresa.
 
 <h2 align="center">
- Language
+ Language :scroll:
 </h2>
 <p align="center">
 <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
