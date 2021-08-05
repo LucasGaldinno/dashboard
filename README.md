@@ -22,9 +22,9 @@ Planejamento de projeto 📋<br><br>
 <img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
 </h2>
  
-<h3 align="center">
+<h2 align="center">
 Ferramenta utilizada para desenvolver o projeto :toolbox:
-</h3>
+</h2>
 Este projeto foi desenvolvido em Visual Studio Code<br>
 June 2021 (version 1.58) <a href="https://code.visualstudio.com/">Visual Studio Code</a>
  
