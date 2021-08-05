@@ -24,7 +24,7 @@ document.querySelectorAll('.sidebar-submenu').forEach((e) => {
 
 let category_options = {
   series: [40, 70, 20],
-  labels: ['Diamond', 'Emerald', 'Ruby'],
+  labels: ['Diamante', 'Esmeralda', 'Rubi'],
   chart: {
     type: 'donut',
   },
@@ -37,10 +37,10 @@ category_chart.render()
       
 let customer_options = {
   series: [{
-  name: 'Store Customers',
+  name: 'Clientes da Loja',
   data: [10, 70, 20, 90, 36, 80, 30, 91, 60]
 },{
-  name: 'Online Customer',
+  name: 'Cliente Online',
   data: [5, 60, 10, 80, 26, 78, 46, 85, 79]
 }],
 color: ['#6ab04c', '#2980b9'],
@@ -120,13 +120,13 @@ setDarkChart = (dark) => {
 
 let container_options = {
   series: [{
-  name: 'Diamond',
+  name: 'Diamante',
   data: [80, 98, 46, 79, 20, 87],
 }, {
-  name: 'Ruby',
+  name: 'Rubi',
   data: [60, 70, 85, 40, 75, 30],
 }, {
-  name: 'Emerald',
+  name: 'Esmeralda',
   data: [64, 36, 40, 83, 53, 40],
 }],
 colors: ['#2980b9', '#ff2400', '#6ab04c'],
@@ -162,13 +162,13 @@ container_chart.render();
 
 let topsales_options = {
     series: [{
-    name: 'Diamond',
+    name: 'Diamante',
     data: [44, 55, 41, 67, 22, 43, 21, 49]
   }, {
-    name: 'Ruby',
+    name: 'Rubi',
     data: [23, 23, 20, 88, 43, 27, 33, 62]
   }, {
-    name: 'Emerald',
+    name: 'Esmeralda',
     data: [11, 17, 15, 15, 21, 14, 15, 13]
   }],
     colors: ['#2980b9', '#ff2400', '#6ab04c'],
@@ -208,11 +208,11 @@ topsales_chart.render();
 
 let acoes_options = {
   series: [{
-  name: 'High %',
+  name: 'Alta %',
   type: 'column',
   data: [84, 55, 61, 67, 62, 83, 71, 81, 86, 67, 73]
 }, {
-  name: 'Low %',
+  name: 'Baixa %',
   type: 'column',
   data: [10, 15, 16, 10, 15, 15, 14, 22, 29, 16, 19]
 }],
@@ -252,7 +252,7 @@ xaxis: {
 },
 yaxis: {
   title: {
-    text: 'percentage',
+    text: 'Porcentagem',
   },
   min: 0
 },
@@ -262,7 +262,7 @@ tooltip: {
   y: {
     formatter: function (y) {
       if (typeof y !== "undefined") {
-        return y.toFixed(0) + "% percentage";
+        return y.toFixed(0) + "% Porcentagem";
       }
       return y;
 
