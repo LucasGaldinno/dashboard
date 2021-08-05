@@ -32,6 +32,6 @@ June 2021 (version 1.58) <a href="https://code.visualstudio.com/">Visual Studio 
 Resultado final do projeto 🎯
 </h2>
   
-<img src ="./Screenshots/Dashboard-result.png?token=AREOZJ6Z6OCCYKAUJABT6TDBAANZC" alt="Dashboard">
+<img src ="./Screenshots/dashboard.png" alt="Dashboard">
  
-<img src ="./Screenshots/Dashboard-Darkmode.png?token=AREOZJ6BPPOKNMAAZCVS45DBAAV2G" alt="Dashboard-Darkmode">
+<img src ="./Screenshots/dark-mode.png" alt="Dashboard-Darkmode">
