@@ -18,7 +18,7 @@ Este projeto é uma continuação da página <a href="https://lucasgaldinno.gith
 <img src ="./Screenshots/Wireframe-Dashboard.png" alt="Wireframe">
  
 <h2 align="center">
-Planejamento de projeto 📋<br><br>
+Planejamento do projeto 📋<br><br>
 <img src ="./Screenshots/Trello-Planning.png?token=AREOZJYTKC77MROJXNP24YTBABDEU" alt="Planning-Trello">
 </h2>
  
